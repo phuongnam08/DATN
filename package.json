@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "primereact": "^10.9.1",
+    "react-dom": "^18.3.1",
+    "react-jwt": "^1.2.2",
     "web-vitals": "^4.2.4"
   }
 }
